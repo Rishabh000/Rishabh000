@@ -12,14 +12,14 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building **AI & ML-driven systems**, focusing on real-world applications  
-- 🌱 Actively learning **Advanced Machine Learning, Deep Learning, and Generative AI**  
-- 👯 Open to collaborating on **open-source ML / AI projects**  
-- 💬 Ask me about **Machine Learning, Deep Learning, NLP, and Full-Stack AI systems**  
-- ⚡ Fun fact: I enjoy **badminton, cricket, and long-distance running**  
+- Currently building **AI & ML-driven systems**, focusing on real-world applications  
+- Actively learning **Advanced Machine Learning, Deep Learning, and Generative AI**  
+- Open to collaborating on **open-source ML / AI projects**  
+- Ask me about **Machine Learning, Deep Learning, NLP, and Full-Stack AI systems**  
+- Fun fact: I enjoy **badminton, cricket, and long-distance running**  
 
 👨‍💻 **Projects:** https://rishabh000.github.io/  
-📄 **Resume:** https://drive.google.com/file/d/1TV7M1nw6-Yya-ielzG-hEwl1hh35bVCm/view
+📄 **Resume:** https://drive.google.com/file/d/1iXWdyVBTI4jUSK15cFWqlx6NJciMEog6/view?usp=sharing
 
 ---
 
