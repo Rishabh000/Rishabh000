@@ -18,9 +18,8 @@
 - Ask me about **Machine Learning, Deep Learning, NLP, and Full-Stack AI systems**  
 - Fun fact: I enjoy **badminton, cricket, and long-distance running**  
 
-👨‍💻 **Projects:** https://rishabh000.github.io/  
-📄 **Resume:** https://drive.google.com/file/d/1iXWdyVBTI4jUSK15cFWqlx6NJciMEog6/view?usp=sharing
-
+👨‍💻 **Potfolio:** https://rishabh000.github.io/  
+📄 **Resume:** https://drive.google.com/file/d/1yMlqc08rYmpgN_FH3CEm6teRxBodj4ri/view?usp=sharing
 ---
 
 ## 📊 GitHub Stats & Activity
