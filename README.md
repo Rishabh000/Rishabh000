@@ -19,7 +19,7 @@
 - Fun fact: I enjoy **badminton, cricket, and long-distance running**  
 
 👨‍💻 **Potfolio:** https://rishabh000.github.io/  
-📄 **Resume:** https://drive.google.com/file/d/1i30Rkf4mMgraYRZCLTjzXhwuDhoo6tcl/view?usp=sharing
+📄 **Resume:** https://drive.google.com/file/d/1d7_iDtM7L2mFWMy_CEas91f8hYKIqEaH/view?usp=drive_link
 ---
 
 ## 📊 GitHub Stats & Activity
